@@ -9,7 +9,7 @@ Three Language Models have been used:
 All three have been trained on "Time Machine" by H.G. Wells. The text is saved as "time_machine.txt".
 
 ## Results
-Initial context: `this is`
+Initial context: `this is`  
 Number of generated words: 20
 
 1. Trigram LM with Backoff
