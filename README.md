@@ -1,7 +1,7 @@
 # Next Word Prediction
 Next Word Prediction using Language Models.
 
-Three Language Models have been used:
+Two Language Models have been used:
 1. Trigram Language Model with Backoff
 2. LSTM Language Model
 
